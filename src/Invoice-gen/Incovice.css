@@ -1,0 +1,16 @@
+.invc {
+  width: 500px;
+}
+.incbutton {
+  color: red;
+  background-color: orangered;
+  border-radius: 4px;
+}
+.incbutton:visited {
+  background-color: wheat;
+  color: black;
+}
+.incgetcus {
+  display: flex;
+  flex-direction: row;
+}
