@@ -100,7 +100,7 @@ function Navbardemo(props) {
                 className="relative  items-center justify-center mpcart"
                 onClick={() => props.setshowCart(false)}
               >
-                <span className="material-symbols-outlined">local_mall</span>
+                <span className="material-symbols-outlined">local_mall d</span>
                 <div className="count">
                   <p>{props.count}</p>
                 </div>
