@@ -96,6 +96,7 @@ function Navbardemo(props) {
               )}
             </Nav.Link>
             <Link to={"/CartList"} className="ulogin">
+              nav
               <div
                 className="relative flex items-center justify-center mpcart"
                 onClick={() => props.setshowCart(false)}
